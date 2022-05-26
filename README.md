@@ -1,4 +1,4 @@
-# Foobar
+# Good Bank
 
 This is my GoodBank Banking Application
 
