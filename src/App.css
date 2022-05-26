@@ -1,0 +1,35 @@
+
+.content{
+  margin-top: 60px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.slide{
+  margin-top: 60px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+
+.nav-color{
+  background-color: rgb(30, 63, 73);
+}
+
+.underline {
+  color: white;
+ }
+
+ .current {
+  border-bottom: 4px solid white;
+}
+
+/* Add a black background color to the top navigation */
+.underline {
+  border-bottom: 2px solid white;
+}
+
+.useralign {
+  display: flex;
+  width: 1100px;
+  justify-content: flex-end;
+}
